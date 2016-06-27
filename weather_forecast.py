@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#-*- coding=utf-8 -*-
+# -*- coding:utf-8 -*-
 from email.mime.text import MIMEText
 import  smtplib, sys, json, urllib, urllib2
 
